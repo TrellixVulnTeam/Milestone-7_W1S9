@@ -1,0 +1,10 @@
+{
+      "diffEditor.wordWrap": "on",
+      "[markdown]": {
+
+            "editor.wordWrap": "on",
+            "editor.quickSuggestions": false,
+            "editor.mouseWheelZoom": true
+      },
+      "editor.wordWrap": "on"
+}
