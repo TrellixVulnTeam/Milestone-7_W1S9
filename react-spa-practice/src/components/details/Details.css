@@ -1,0 +1,42 @@
+.image{
+      width: 25%;
+      text-align: center;
+      margin: 0 auto;
+}
+
+.image img {
+      width: 100%;
+      text-align: center;
+      margin-top: 10px;
+}
+
+.person {
+      width: 30%;
+      background-image: linear-gradient(to right, rgba(255, 99, 71, 0.4), rgba(0, 0, 127, 0.6));
+      border-radius: 10px;
+      margin-top: 20px;
+      margin-left: 20px;
+      float: left;
+}
+
+.person p{
+      font-size: 18px;
+      font-weight: 600;
+      color: #fff;
+}
+
+.button{
+      padding: 10px 30px;
+      background-color: #1dd1a1;
+      border: none;
+      border-radius: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #ff7979;
+      margin-bottom: 20px;
+}
+
+.icon{
+      color: #fff;
+      margin-right: 10px;
+}
