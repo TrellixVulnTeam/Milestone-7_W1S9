@@ -1,0 +1,29 @@
+.country{
+      width: 29%;
+      height: auto;
+      background-color: #bdc3c7;
+      border-radius: 5px;
+      float: left;
+      margin: auto;
+      margin-bottom: 50px;
+      margin-right: 10px;
+      margin-left: 20px;
+}
+
+.country img{
+      margin-top: 10px;
+      border-radius: 5px;
+      height: 100px;
+}
+
+.country p{
+      font-size: 18px;
+      font-weight: 600;
+      color: #d35400;
+      width: 100%;
+}
+
+.country h2{
+      padding: 5px;
+      color: deeppink;
+}
