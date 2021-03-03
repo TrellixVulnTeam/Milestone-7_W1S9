@@ -9,13 +9,13 @@ function App() {
     setData(fakeData);
   }, [])
   return (
-    <div className="App">
-      <div className="personal-details">
+    <div className = "App">
+      <div className = "personal-details">
         {
           fakeData.map(fakeData => <Details data = {fakeData} key={fakeData.id}></Details>)
         }
       </div>
-      <div className="border"></div>
+      <div className = "border"></div>
       <div>
         <h2>This is cart</h2>
       </div>
